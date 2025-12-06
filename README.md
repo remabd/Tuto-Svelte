@@ -15,7 +15,7 @@ Pour afficher tel ou tel composant sur le server local, on change la ligne `impo
 Après clonage:
 
 ```
-cd exoTuto
+cd Tuto-Svelte
 npm i
 npm run dev
 ```
