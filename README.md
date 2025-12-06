@@ -12,9 +12,8 @@ Pour afficher tel ou tel composant sur le server local, on change la ligne `impo
 
 ## Build & Run
 
-Après clonage:
-
 ```
+https://github.com/remabd/Tuto-Svelte.git
 cd Tuto-Svelte
 npm i
 npm run dev
